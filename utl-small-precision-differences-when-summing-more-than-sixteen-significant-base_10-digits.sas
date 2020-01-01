@@ -1,6 +1,10 @@
 Small precision differences when summing more than sixteen significant base 10 digits
 
-  We need 128 byte floats
+  We need 128 byte floats ( we don't need another editor?)
+  
+  github
+  https://tinyurl.com/thytj96
+  https://github.com/rogerjdeangelis/utl-small-precision-differences-when-summing-more-than-sixteen-significant-base_10-digits
 
   Problem
 
